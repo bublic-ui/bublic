@@ -1,5 +1,4 @@
-# bublic
-bublic repository
+
 # 💫 About Me:
 I’m currently working on development of my web site<br>I’m looking to collaborate on interesting projects as junior python developer<br>I’m looking for job<br>I’m currently learning python<br>
 
